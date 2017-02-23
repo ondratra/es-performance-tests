@@ -1,0 +1,10 @@
+{
+  "name": "es-performance-tests",
+  "version": "0.1.0",
+  "description": "tests of ecma script feature performace",
+  "repository": {},
+  "license": "GPL-3.0",
+  "scripts": {
+    "test": "node --harmony-async-await index.js"
+  }
+}
